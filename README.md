@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielMontilla
 - 👀 I’m interested in mobile development and IoT
-- 🌱 I’m currently learning Flutter and agile methodologies
+- 🌱 I’m currently working with React Native
 - 📫 How to reach me dm.fullstackdeveloper@gmail.com 
 
 <!---
